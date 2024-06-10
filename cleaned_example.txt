@@ -1,0 +1,1 @@
+<generator object remove_bad_characters.<locals>.<genexpr> at 0x000001D668AC0430>
